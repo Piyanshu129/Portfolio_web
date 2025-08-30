@@ -12,6 +12,19 @@ export function Experience() {
           <Reveal>
             <article className="rounded-xl border border-white/10 bg-white/5 p-5">
               <header className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-1">
+                <h4 className="font-semibold">ExSquared-AI/ML Intern</h4>
+                <span className="text-sm text-slate-300">Aug 2025 – Present</span>
+              </header>
+              <ul className="mt-3 list-disc list-inside text-slate-300 space-y-1">
+                <li>Building and deploying machine learning models for real-world applications.</li>
+                <li>Working on model optimization, explainability, and scalable APIs.</li>
+                <li>Collaborating on AI-driven solutions to enhance automation and insights.</li>
+              </ul>
+            </article>
+          </Reveal>
+          <Reveal>
+            <article className="rounded-xl border border-white/10 bg-white/5 p-5">
+              <header className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-1">
                 <h4 className="font-semibold">Frontend Developer — Careease (Remote)</h4>
                 <span className="text-sm text-slate-300">Jul 2024 – Oct 2024</span>
               </header>
